@@ -9,5 +9,5 @@
    Answer: 
 
 3. Flanders, Errol, and Meirian are splitting up a family size garlic pizza. Flanders can finish the entire pizza in 20 minutes, Errol can eat it all in 30 minutes, while Meirian, who likes to savour the flavour, takes an hour to devour a family sized pizza. How long do they take to finish the pizza?
-
-  Answer: 
+   
+   Answer: 
