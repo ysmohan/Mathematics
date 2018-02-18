@@ -2,7 +2,7 @@
    
 1. Last year at the Research Bazaar, all but three teams wore yellow t-shirts, all but three teams wore green t-shirts, all but three teams wore white t-shirts, and all but three wore purple t-shirts. How many teams were there at the Research Bazaar?
 
-   A. 0 teams → B. 1 team → C. 3 teams → D. 4 teams → E. 12 teams
+   A. 0 teams     B. 1 team      C. 3 teams     D. 4 teams     E. 12 teams
    
    Answer: 
 
